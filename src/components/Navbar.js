@@ -34,7 +34,7 @@ export default function Navbar(){
     return (
         <>
             <div className="navbar container">
-                <Link to="/" className="logo">F<span>ar</span>metteHub</Link>
+                <Link to="/" className="logo">F<span>arm</span>etteHub</Link>
                 <div className="nav-links">
                     { links.map(link => (
                         <Link className={location.pathname === link.path ? "active" : ""} to={link.path} key={link.name}>{link.name}</Link>
