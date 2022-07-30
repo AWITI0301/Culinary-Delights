@@ -1,4 +1,3 @@
-import PreviousSearches from "../components/PreviousSearches"
 import RecipeCard from "../components/RecipeCard"
 import {useEffect, useState} from 'react';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
