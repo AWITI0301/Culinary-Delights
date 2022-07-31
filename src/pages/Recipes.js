@@ -23,12 +23,13 @@ export default function Recipes(){
     }
 
     const foodDisplay = foodRecipe.filter((recipe)=>
-        recipe.strMeal.toLowerCase().includes(search.toLowerCase())
+        recipe.strMeal?.toLowerCase().includes(search.toLowerCase())
+
     )  
-    // console.log(foodDisplay)
+    console.log(foodRecipe)
+
 
     return (
-        
         <div>
                 <div className="previous-searches section">
             
@@ -47,7 +48,6 @@ export default function Recipes(){
             <div className="recipes-container">
                
                 {foodDisplay.map((recipe, index) => (
-                    // console.log('hello world')
                     <RecipeCard key={index} recipe={recipe} />
                 ))}
             </div>

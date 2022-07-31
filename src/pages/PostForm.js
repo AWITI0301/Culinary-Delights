@@ -1,8 +1,8 @@
 // import RecipeCard from "../components/RecipeCard"
 import {useState} from 'react'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { faSearch } from "@fortawesome/free-solid-svg-icons"
-import axios from 'axios';
+// import { faSearch } from "@fortawesome/free-solid-svg-icons"
+// import axios from 'axios';
 
 function PostForm () {
     const url ="https://jm-recip-api.herokuapp.com/meals"
@@ -41,19 +41,7 @@ function PostForm () {
             )
         }).then((res)=>res.json())
         .then((data)=>console.log(data))
-        // axios.post(url,{
-        //     name: data.name,
-        //     email: data.email,
-        //     contact: data.contact,
-        //     id: parseInt(data.id),
-        //     nationality: data.nationality,
-        //     religion: data.religion,
-        //     date: data.date,
-        //     comments: data.comments
-        // })
-        // .then(res=>{
-        //     console.log(res.data)
-        // })
+   
 
     }
     function handle(e){
@@ -61,7 +49,6 @@ function PostForm () {
         newdata[e.target.id] = e.target.value
         setData(newdata)
         console.log(newdata)
-        // console.log({...data,[e.target.id]:e.target.value})
 
     }
     return (
