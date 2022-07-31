@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# Culinary-Delights
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+[Deployed-link] (https://culinary-delights.herokuapp.com/)
 
-In the project directory, you can run:
 
-### `npm start`
+## Description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- This is a Recipe app that helps users to search for food recipe of their choice.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- The API used is not from the external API. I created the the API using HEROKO.
 
-### `npm test`
+- While doing the project, i learnt that time is a necessity. Styling the projects takes time and there one needs to prepare wekk before starting the project. Creating the react app also takes time.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation
+Ensure you have npm installed on your computer.
 
-### `npm run build`
+- Fork this repository and clone it to your computer.
+- In the folder where you've cloned it, cd into the cloned project
+- If your terminal wasn't open before this, open it and run the commands below:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- ![#1589F0] (npm install)
+- ![#1589F0] (npm start)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- This process will enable you to have your the project in your local environment but the link above (deployed link) should function similarly to running npm start.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Credits
+- There were no collaborators when i was doing the project.
+- just giving credits to myslef for the hard work.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# License
+Michael Murage (individual), owns this Educational Content. However, I support the development and availability of educational materials in the public domain. Therefore, I grant users set forth in this repository certain rights to reuse, build upon and share such Educational Content subject to the terms of the Educational Content License set forth here (http://learn.co/content-license). You must read carefully the terms and conditions contained in the Educational Content License as such terms govern access to and use of the Educational Content.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Michael Murage is willing to allow you access to and use of the Educational Content only on the condition that you accept all of the terms and conditions contained in the Educational Content License set forth here (http://learn.co/content-license). By accessing and/or using the Educational Content, you are agreeing to all of the terms and conditions contained in the Educational Content License. If you do not agree to any or all of the terms of the Educational Content License, you are prohibited from accessing, reviewing or using in any way the Educational Content.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# LINKS
+@facebook  John Mark
+@twitter    John Mark
+@IG         john_mark_69
+@linkedin   Awiti John

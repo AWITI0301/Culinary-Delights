@@ -2,7 +2,7 @@
 import {useState} from 'react'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faSearch } from "@fortawesome/free-solid-svg-icons"
-// import axios from 'axios';
+import axios from 'axios';
 
 function PostForm () {
     const url ="https://jm-recip-api.herokuapp.com/meals"
