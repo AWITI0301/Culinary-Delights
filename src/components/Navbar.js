@@ -24,6 +24,11 @@ export default function Navbar(){
             path: "/settings",
             icon: faCog
         },
+        {
+            name: "Form",
+            path: "postform",
+            icon: faCog
+        }
 
     
     ]
