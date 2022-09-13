@@ -12,6 +12,9 @@
 
 - While doing the project, i learnt that time is a necessity. Styling the projects takes time and there one needs to prepare wekk before starting the project. Creating the react app also takes time.
 
+to delete the game, click on the name of the game and it will show the comment section, likes and delete part in it
+
+
 ## Installation
 Ensure you have npm installed on your computer.
 
